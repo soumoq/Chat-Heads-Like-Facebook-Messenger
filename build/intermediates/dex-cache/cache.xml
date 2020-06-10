@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3984fb1645c58cd4b671e16e9352c87e3ead1459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5fdcd84cc645e53874e6942296f4671d88a3819b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_09428de59c1d188b003f721bf375d859e0ad14d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5ef399d2c7e309ecd765082d8af603f1e5f77d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_bc7fa252703c9a708dedbf89672a33b38315e3cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3a313a16d151105abab0625cdb64adab09235fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_e6f5b7ef73678732bcc3e1297b9cc684b1fb4de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ab8e7531d32095bbd1499aef9972a5fa481cbae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6ea64952bd3f36f8069fda9b10f0a6462f141a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f1945e363b4a99659d213021e6a0f0e02f75b39b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d1b5ae870b225943d0b6d66f934ffca5ee2c0be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_026caefaa96ed79116603b66a0a42db4818c371b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_05d28869932ea6d86932921ebe0e9b8855a48cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/root/AndroidStudioProjects/FloatingWidget/Floating Widget/Floating Widget/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5f2da2575cc8e6167d5e9a766d5f21f97fcbcfd4.jar" />
+    </item>
+
+</items>
