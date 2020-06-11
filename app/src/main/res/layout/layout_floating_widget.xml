@@ -21,20 +21,20 @@
 
             <!--Icon of floating widget -->
 
-            <ImageView
+            <FrameLayout
                 android:id="@+id/collapsed_iv"
                 android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_height="130dp"
                 android:layout_marginTop="8dp"
-                android:src="@color/colorAccent"
                 tools:ignore="ContentDescription" />
+
 
             <ImageView
                 android:id="@+id/open_button"
                 android:layout_width="20dp"
                 android:layout_height="20dp"
                 android:layout_below="@+id/collapsed_iv"
-                android:src="@drawable/ic_open" />
+                android:src="@drawable/ic_baseline_fullscreen_24" />
 
             <!--Close button-->
             <ImageView
