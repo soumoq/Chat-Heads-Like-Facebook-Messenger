@@ -15,11 +15,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
     private static final int CODE_DRAW_OVER_OTHER_APP_PERMISSION = 2084;
 
-    private boolean doesUserHavePermission(Context context)
-    {
-        int result = context.checkCallingOrSelfPermission(Manifest.permission.SYSTEM_ALERT_WINDOW);
-        return result == PackageManager.PERMISSION_GRANTED;
-    }
+
 
 
     @Override
@@ -27,8 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        boolean check=doesUserHavePermission(this);
-        Toast.makeText(this,"Permission: "+check,Toast.LENGTH_LONG).show();
+
 
         //Check if the application has draw over other apps permission or not?
         //This permission is by default available for API<23. But for API > 23
