@@ -104,14 +104,7 @@ public class FloatingViewService extends Service {
 
                         //The check for Xdiff <10 && YDiff< 10 because sometime elements moves a little while clicking.
                         //So that is click event.
-                        if (Xdiff < 10 && Ydiff < 10) {
-                            if (isViewCollapsed()) {
-                                //When user clicks on the image view of the collapsed layout,
-                                //visibility of the collapsed layout will be changed to "View.GONE"
-                                //and expanded view will become visible.
-                                collapsedView.setVisibility(View.GONE);
-                            }
-                        }
+
                         return true;
                     case MotionEvent.ACTION_MOVE:
                         //Calculate the X and Y coordinates of the view.
@@ -132,9 +125,7 @@ public class FloatingViewService extends Service {
      *
      * @return true if the floating view is collapsed.
      */
-    private boolean isViewCollapsed() {
-        return mFloatingView == null || mFloatingView.findViewById(R.id.collapse_view).getVisibility() == View.VISIBLE;
-    }
+
 
     @Override
     public void onDestroy() {

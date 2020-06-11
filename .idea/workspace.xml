@@ -284,10 +284,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="266" y="155" width="824" height="491" key="AndroidCreateResourceDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1591884940793" />
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1591813724909">
+    <state x="140" y="27" width="1075" height="741" key="CommitChangelistDialog2" timestamp="1591885925447">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1591813724909" />
+    <state x="140" y="27" width="1075" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1591885925447" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1591885930307">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1591885930307" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1591884176906">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
