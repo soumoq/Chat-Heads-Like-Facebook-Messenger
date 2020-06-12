@@ -8,13 +8,14 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.Settings;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private static final int CODE_DRAW_OVER_OTHER_APP_PERMISSION = 2084;
-
+    private static final int MY_PERMISSIONS_CAMERA=1;
 
 
 
@@ -23,6 +24,25 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
+        //permission for camera
+
+        //When permission is not granted by user, show them message why this permission is needed.
+        if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                Manifest.permission.CAMERA)) {
+            Toast.makeText(this, "Please grant permissions to record audio", Toast.LENGTH_LONG).show();
+
+            //Give user option to still opt-in the permissions
+            ActivityCompat.requestPermissions(this,
+                    new String[]{Manifest.permission.CAMERA},
+                    MY_PERMISSIONS_CAMERA);
+        } else {
+            // Show user dialog to grant permission to record audio
+            ActivityCompat.requestPermissions(this,
+                    new String[]{Manifest.permission.CAMERA},
+                    MY_PERMISSIONS_CAMERA);
+        }
 
 
         //Check if the application has draw over other apps permission or not?
@@ -47,6 +67,9 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.notify_me).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+
+
                 startService(new Intent(MainActivity.this, FloatingViewService.class));
                 finish();
             }
